@@ -76,10 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Image Gallery/Slideshow
     const images = [
-        'https://source.unsplash.com/random/800x400?nature,1',
-        'https://source.unsplash.com/random/800x400?nature,2',
-        'https://source.unsplash.com/random/800x400?nature,3',
-        'https://source.unsplash.com/random/800x400?nature,4'
+        'images/RESSORT 1.jpg',
+        'images/RESORT2.jpg',
+        'images/RESORT3.jpg',
+        'images/RESORT4.jpg'
     ];
     
     const currentImage = document.getElementById('current-image');
